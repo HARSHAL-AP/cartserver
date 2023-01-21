@@ -1,0 +1,28 @@
+{
+  "cart": [
+    {
+      "_id": "63c7b81df737416ab210a1cd",
+      "name": "Nutella Banana Waffle-Single",
+      "price": 140,
+      "images": "https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOOmAiPML1673482955_be067219bbee2d348e8d33ec68c65f62baa76229bcfccba8b86ee4356269b404.jpg",
+      "category": "Kitchen Ware",
+      "returnable": true,
+      "cancellable": true,
+      "description": "ex magna laboris Lorem exercitation do dolore nostrud officia pariatur",
+      "time_to_ship": 9,
+      "return_window": 6
+    },
+    {
+      "_id": "63c7b81d68870aab5f3e4575",
+      "name": "Dry Fruit Waffle-Double",
+      "price": 240,
+      "images": "https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOS0xxDGL1673482951_be067219bbee2d348e8d33ec68c65f62baa76229bcfccba8b86ee4356269b404.jpg",
+      "category": "Kitchen Ware",
+      "returnable": false,
+      "cancellable": true,
+      "description": "incididunt nulla laboris Lorem sunt cillum excepteur minim do sint",
+      "time_to_ship": 2,
+      "return_window": 0
+    }
+  ]
+}
